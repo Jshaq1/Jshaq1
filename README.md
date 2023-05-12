@@ -1,6 +1,6 @@
 ### Hi, my name is Jordan! 
 
-#### A Junior Front-End Developer and graphi designer based in Perth, WA 
+#### A Junior Front-End Developer and graphic designer based in Perth, WA 
 
 Junior front-end developer and aspiring UI designer. With a background in
 graphic design and a keen interest in the way people interact with
