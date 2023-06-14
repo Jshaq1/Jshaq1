@@ -2,9 +2,9 @@
 
 #### A Junior Front-End Developer and graphic designer based in Perth, WA 
 
-Junior front-end developer and aspiring UI designer. With a background in
-graphic design and a keen interest in the way people interact with
-technology. Venturing into software development, I strive to seek out
+I have a keen interest in the way people interact with
+technology and ways we can use this interaction to benefit others lives in some meaningful way. 
+Venturing into software development, I strive to seek out
 opportunities to bring creativity and new perspective to projects that
 deserve to be exciting, enjoyable and accessible. I am constantly on the
 lookout for new inspiration and technologies to make projects more
