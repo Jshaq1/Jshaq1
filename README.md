@@ -13,6 +13,7 @@ make it exciting and usable!
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/style=for-the-badge&Color=white)](https://www.linkedin.com/in/jordan-allen-36ab53149/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-allen-36ab53149/) 
 
 # 💻 Tech Stack:
